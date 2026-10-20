@@ -1,0 +1,3 @@
+interface:
+  display_name: "Docker"
+  short_description: "Run projects in Docker with explicit resource names"
