@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile App Development"
+  short_description: "Build and ship iOS and Android mobile apps"
+  default_prompt: "Use $mobile-app-development to build or improve this mobile app, following its platform conventions and verifying the main user journey."
